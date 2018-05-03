@@ -1,0 +1,112 @@
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\ApplicationInsights.config
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\MVCAzureFileStorage.dll.config
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\MVCAzureFileStorage.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\MVCAzureFileStorage.pdb
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Antlr3.Runtime.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.Web.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.WindowsServer.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.ApplicationInsights.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.Azure.KeyVault.Core.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.Web.Infrastructure.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Storage.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Newtonsoft.Json.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Helpers.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Mvc.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Optimization.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Razor.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.Deployment.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.Razor.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\WebGrease.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.Azure.KeyVault.Core.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Storage.pdb
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Storage.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Newtonsoft.Json.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Helpers.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Mvc.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Optimization.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Razor.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.Deployment.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.Razor.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Antlr3.Runtime.pdb
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.ApplicationInsights.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.WindowsServer.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.Web.xml
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.Helpers.resources.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.Mvc.resources.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.Optimization.resources.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.Razor.resources.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.WebPages.resources.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\obj\Debug\MVCAzureFileStorage.csprojResolveAssemblyReference.cache
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\obj\Debug\MVCAzureFileStorage.csproj.CoreCompileInputs.cache
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\obj\Debug\MVCAzureFileStorage.dll
+c:\users\raquel\source\repos\MVCAzureFileStorage\MVCAzureFileStorage\obj\Debug\MVCAzureFileStorage.pdb
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\ApplicationInsights.config
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\MVCAzureFileStorage.dll.config
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\MVCAzureFileStorage.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\MVCAzureFileStorage.pdb
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Antlr3.Runtime.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.Web.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Newtonsoft.Json.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Helpers.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Mvc.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Optimization.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Razor.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.Razor.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\WebGrease.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Newtonsoft.Json.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Helpers.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Mvc.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Optimization.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.Razor.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\System.Web.WebPages.Razor.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Antlr3.Runtime.pdb
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\Microsoft.AI.Web.xml
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.Razor.resources.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\obj\Debug\MVCAzureFileStorage.csprojResolveAssemblyReference.cache
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\obj\Debug\MVCAzureFileStorage.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\obj\Debug\MVCAzureFileStorage.dll
+C:\Users\Raquel\Desktop\MASTER MCSD 2017-2018\PostVideotutorial-AzureFileStorage\MVCAzureFileStorage\MVCAzureFileStorage\obj\Debug\MVCAzureFileStorage.pdb

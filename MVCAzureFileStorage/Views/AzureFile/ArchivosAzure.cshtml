@@ -1,0 +1,23 @@
+﻿@model List<String>
+@{
+    ViewBag.Title = "ArchivosAzure";
+}
+
+<h2>Listado de Archivos de Azure</h2>
+@if(Model == null){
+    <h4 style="color:red">Lo sentimos aún no existen archivos en este directorio</h4>
+} else{
+    <ul>
+        @foreach(String archivo in Model){
+            if (archivo.EndsWith("txt")){
+                <li>@Html.ActionLink(archivo, "DatosTXT", "AzureFile", new { nombrearchivo = archivo }, null)</li>
+            } else if (archivo.EndsWith("xml")){
+                <li>@Html.ActionLink(archivo, "DatosXML", "AzureFile", new { nombrearchivo = archivo }, null)</li>
+            } else{
+                <li>@archivo</li>
+            }
+        }
+    </ul>
+}
+
+@Html.ActionLink("Subir archivo", "SubirFichero", "AzureFile")

@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "DatosTXT";
+}
+
+<h2>Datos archivo TXT</h2>
+
+@if(ViewBag.Contenido != null){
+    <p>@ViewBag.Contenido</p>
+} else{
+    <h4 style="color:red">Lo sentimos ha ocurrido un error</h4>
+}
+
+@Html.ActionLink("Volver al listado", "ArchivosAzure", "AzureFile")

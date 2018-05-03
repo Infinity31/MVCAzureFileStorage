@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MVCAzureFileStorage.Models.Libro>
+
+@{
+    ViewBag.Title = "DatosXML";
+}
+
+<h2>Datos archivo XML</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>NOMBRE</th>
+        <th>AUTOR</th>
+        <th>Nº PÁGINAS</th>
+        <th>PORTADA</th>
+        <th>CAPITULOS</th>
+    </tr>
+
+    @foreach (var item in Model){
+        <tr>
+            <td>@item.Nombre</td>
+            <td>@item.Autor</td>
+            <td>@item.NumeroPaginas</td>
+            <td>
+                <img src="@item.Imagen" width="100px" height="100px" />
+            </td>
+            <td>
+                <ul>
+                    @foreach (var cap in item.Capitulos){
+                        <li>@cap.NombreCapitulo</li>
+                        <li>
+                            <img src="@cap.ImagenCapitulo" width="100px" height="100px" />
+                        </li>
+                    }
+                </ul>
+            </td>
+        </tr>
+    }
+</table>
+
+@Html.ActionLink("Volver al listado", "ArchivosAzure", "AzureFile")
