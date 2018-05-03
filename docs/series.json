@@ -1,0 +1,24 @@
+{
+    "Serie": [
+      {
+        "Titulo": "Big Bang Theory",
+        "IdSerie": "1",
+        "FechaComienzo": "01/6/1993"
+      },
+      {
+        "Titulo": "Game of Thrones",
+        "IdSerie": "2",
+        "FechaComienzo": "01/6/1993"
+      },
+      {
+        "Titulo": "The Walking Dead",
+        "IdSerie": "3",
+        "FechaComienzo": "01/6/1993"
+      },
+      {
+        "Titulo": "Vikings",
+        "IdSerie": "4",
+        "FechaComienzo": "01/6/1993"
+      }
+    ]
+}
